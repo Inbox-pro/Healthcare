@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 220" width="100%" height="100%">
+  <!-- Envelope Icon -->
+  <g id="envelope" transform="translate(10, 10)">
+    <!-- Top Green Flap -->
+    <polygon points="35,80 115,10 195,80" fill="#75B431" stroke="#548C20" stroke-width="2.5" stroke-linejoin="round" />
+
+    <!-- White Paper with Blue Text Lines -->
+    <rect x="42" y="32" width="146" height="120" rx="3" fill="#FFFFFF" stroke="#CCD2D9" stroke-width="2.5" />
+    <line x1="58" y1="56" x2="105" y2="56" stroke="#009EDB" stroke-width="5.5" stroke-linecap="round" />
+    <line x1="58" y1="74" x2="172" y2="74" stroke="#009EDB" stroke-width="5" stroke-linecap="round" />
+    <line x1="58" y1="92" x2="158" y2="92" stroke="#009EDB" stroke-width="4.5" stroke-linecap="round" />
+
+    <!-- Left Orange Flap -->
+    <polygon points="15,74 15,195 115,130" fill="#E53A1B" />
+
+    <!-- Front Cyan/Blue Envelope Pouch -->
+    <polygon points="15,195 215,195 215,74 115,130" fill="#009EDB" />
+  </g>
+
+  <!-- Wordmark Text & Badge -->
+  <g id="wordmark" transform="translate(250, 20)">
+    <!-- "Inbox" -->
+    <text x="0" y="105" font-family="'Segoe UI', Arial, Helvetica, -apple-system, sans-serif" font-size="118" font-weight="800" fill="#0A0F1D" letter-spacing="-1">Inbox</text>
+
+    <!-- "HEALTHCARE" Badge (instead of STORE) -->
+    <g transform="translate(345, 30)">
+      <rect x="0" y="0" width="175" height="52" rx="10" fill="#FFF2E8" stroke="#FFD8BF" stroke-width="1.5" />
+      <text x="87.5" y="35" font-family="'Segoe UI', Arial, Helvetica, -apple-system, sans-serif" font-size="24" font-weight="800" fill="#16803C" letter-spacing="1.5" text-anchor="middle">HEALTHCARE</text>
+    </g>
+
+    <!-- Orange Divider Line -->
+    <line x1="0" y1="124" x2="520" y2="124" stroke="#E53A1B" stroke-width="6" stroke-linecap="butt" />
+
+    <!-- "Infotech Pvt. Ltd." -->
+    <text x="0" y="172" font-family="'Segoe UI', Arial, Helvetica, -apple-system, sans-serif" font-size="52" font-weight="500" fill="#1E293B" letter-spacing="-0.5">Infotech Pvt. Ltd.</text>
+  </g>
+</svg>

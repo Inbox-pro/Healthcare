@@ -1,0 +1,6 @@
+{
+  "name": "Inbox Health HMS",
+  "description": "Enterprise Healthcare Management System (HMS) by Inbox Infotech Pvt. Ltd. featuring OPD, IPD, Emergency, Pharmacy, Lab, Radiology, Billing, and Role-Based Access Control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
